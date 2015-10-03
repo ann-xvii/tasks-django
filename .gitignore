@@ -5,3 +5,4 @@ db.sqlite3
 .DS_Store
 .idea
 taskbuster/settings/secret.py
+functional_tests/__init__.py
