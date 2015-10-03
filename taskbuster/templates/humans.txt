@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    AA -- dev -- <twitter>
 
 # THANKS
 
-    <name>
+    M. Mele
 
 # TECHNOLOGY COLOPHON
 
+    Django
     HTML5, CSS3
     jQuery, Modernizr

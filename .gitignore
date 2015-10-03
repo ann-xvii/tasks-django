@@ -6,3 +6,5 @@ db.sqlite3
 .idea
 taskbuster/settings/secret.py
 functional_tests/__init__.py
+.coverage
+htmlcov
