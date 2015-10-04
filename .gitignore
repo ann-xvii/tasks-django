@@ -8,3 +8,4 @@ taskbuster/settings/secret.py
 functional_tests/__init__.py
 .coverage
 htmlcov
+taskbuster/fixtures
